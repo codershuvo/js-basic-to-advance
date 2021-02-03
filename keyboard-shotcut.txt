@@ -1,0 +1,5 @@
+ctrl + shift + J = chrome console open. 
+ctrl + L = chrome console clear.
+clear() = chrome console clear.
+shift + enter = next line.
+ctrl + / = comment.
